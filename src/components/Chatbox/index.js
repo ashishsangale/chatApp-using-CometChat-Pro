@@ -98,7 +98,7 @@ export default class Chatbox extends Component {
     this.setState({ messageText: e.target.value });
   }
 
-  // Get the current logged in user
+  // currrent user
 
   getUser() {
     CometChat.getLoggedinUser().then(
