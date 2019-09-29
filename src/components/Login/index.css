@@ -1,0 +1,28 @@
+h3 {
+  color: #529cca;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.groupname {
+  width: 300px !important;
+  margin-left: 200 !important;
+}
+
+.loading {
+  margin-left: 150px;
+}
+
+.error {
+  color: red;
+  margin-left: 100px;
+  font-size: 10px !important;
+  font-style: italic;
+}
+
+.login {
+  display: absolute;
+  width: 400px;
+  margin-left: 400px;
+  margin-top: 200px;
+}
