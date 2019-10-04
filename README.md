@@ -1,5 +1,5 @@
 # ChatApp using CometChat-Pro 
-Currently there are 5 users Superhero1-5 . Choose any one to start.
+Currently there are 5 users superhero1-5 . Choose any one to start.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
