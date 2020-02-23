@@ -56,7 +56,7 @@ export default class Login extends Component {
     return (
       <React.Fragment>
         <div className="login">
-          <h3>Welcome to Your React Chat App | Log in to start chatting</h3>
+          <h3>Welcome to My Chat App | Log in to start chatting</h3>
           {!this.state.redirect ? "" : this.renderRedirect()}
           <div>
             <form onSubmit={this.onSubmit}>
